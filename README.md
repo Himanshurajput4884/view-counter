@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/4/30 12:00 AM UTC
+			2023/5/1 12:27 AM UTC
 		</td>
 		<td>
 			2
@@ -42,18 +42,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/4/30 12:27 AM UTC
+			2023/5/1 12:00 AM UTC
 		</td>
 		<td>
-			2
+			3
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Himanshurajput4884/view-counter/raw/master/graph/470949227/small/year.png" height="20"> 2
+			<img alt="Response time graph" src="https://github.com/Himanshurajput4884/view-counter/raw/master/graph/470949227/small/year.png" height="20"> 3
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/5/2 6:00 PM UTC</i></small>
+<small><i>Last updated on 2023/5/3 12:24 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
